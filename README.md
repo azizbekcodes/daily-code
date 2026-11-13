@@ -1,2 +1,3 @@
 # daily-code
-Hi guys this is my first code
+Hi guys this my code
+
